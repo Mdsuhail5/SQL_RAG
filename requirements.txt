@@ -1,0 +1,17 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain-groq
+faiss-cpu
+langchain-ollama
+pypdf
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+wikipedia
+arxiv
+db-sqlite3
+langgraph  
